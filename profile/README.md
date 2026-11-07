@@ -18,4 +18,4 @@
 Read https://raw.githubusercontent.com/tqx-ai/tqx-ts/refs/heads/main/skills/what-is-tqx/SKILL.md to install the latest tqx CLI and use it to check my account information and positions.
 ```
 
-请复制到你喜欢的 Agent，比如 Codex、Claude Code、Muse、Grok Bot ……
+Copy this prompt into your favorite agent, such as Codex, Claude Code, Muse, or Grok Bot.

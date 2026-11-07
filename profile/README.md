@@ -6,7 +6,7 @@
 
 **Research. Backtest. Trade.**
 
-[Platform](https://www.tqx.ai) · [Data](https://docs.tqx.ai/data/info) · [Skills & CLI](https://github.com/tqx-ai/tqx-ts) · [Documentation](https://docs.tqx.ai)
+[Platform](https://www.tqx.ai/) · [Skills & CLI](https://github.com/tqx-ai/tqx-ts) · [Documentation](https://docs.tqx.ai/) · [Data](https://docs.tqx.ai/data/info)
 
 </div>
 
@@ -22,19 +22,10 @@ flowchart LR
   D --> E[Trading]
 ```
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>TypeScript SDK</strong><br />
-      Build research and trading workflows.<br /><br />
-      <code>bun add @tqx-ai/sdk</code><br />
-      <sub>or <code>pnpm add @tqx-ai/sdk</code></sub>
-    </td>
-    <td align="center" width="50%">
-      <strong>CLI</strong><br />
-      Run TQX from your terminal.<br /><br />
-      <code>bun add --global @tqx-ai/cli</code><br />
-      <sub>or <code>pnpm add --global @tqx-ai/cli</code></sub>
-    </td>
-  </tr>
-</table>
+## Start with your favorite agent
+
+Copy this prompt into Codex, Claude Code, Muse, Grok Bot, or any agent you use:
+
+```text
+Read https://raw.githubusercontent.com/tqx-ai/tqx-ts/refs/heads/main/skills/what-is-tqx/SKILL.md to install the latest tqx CLI and use it to check my account information and positions.
+```

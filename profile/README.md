@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tqx-hero.svg" alt="TQX — AI trading systems" width="1200" />
+<a href="https://github.com/tqx-ai/tqx-ts"><img src="./assets/tqx-hero.svg" alt="TQX — AI trading systems" width="1200" /></a>
 
 # TQX is all you need for AI trading.
 

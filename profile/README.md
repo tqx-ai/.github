@@ -12,20 +12,10 @@
 
 <br />
 
-## Build with TQX
-
-```mermaid
-flowchart LR
-  A[Market Data] --> B[Research]
-  B --> C[Backtest]
-  C --> D[Signals]
-  D --> E[Trading]
-```
-
 ## Start with your favorite agent
-
-Copy this prompt into Codex, Claude Code, Muse, Grok Bot, or any agent you use:
 
 ```text
 Read https://raw.githubusercontent.com/tqx-ai/tqx-ts/refs/heads/main/skills/what-is-tqx/SKILL.md to install the latest tqx CLI and use it to check my account information and positions.
 ```
+
+请复制到你喜欢的 Agent，比如 Codex、Claude Code、Muse、Grok Bot ……

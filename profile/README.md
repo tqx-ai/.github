@@ -6,11 +6,21 @@
 
 **Research. Backtest. Trade.**
 
-[Skills & CLI](https://github.com/tqx-ai/tqx-ts) · [Documentation](https://docs.tqx.ai)
+[Platform](https://www.tqx.ai) · [Data](https://docs.tqx.ai/data/info) · [Skills & CLI](https://github.com/tqx-ai/tqx-ts) · [Documentation](https://docs.tqx.ai)
 
 </div>
 
 <br />
+
+## Build with TQX
+
+```mermaid
+flowchart LR
+  A[Market Data] --> B[Research]
+  B --> C[Backtest]
+  C --> D[Signals]
+  D --> E[Trading]
+```
 
 <table align="center">
   <tr>
